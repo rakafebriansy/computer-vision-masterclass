@@ -1,7 +1,7 @@
 ## How to run project
 
 ### 1. Download Contents
-https://drive.google.com/drive/folders/1fnn6e8q7Ykp7nqOPWGeSiijlNTt_kkPL
+Computer Vision Masterclass - Udemy
 
 ### 2. Activate Python Virtual Environment
 ```bash
